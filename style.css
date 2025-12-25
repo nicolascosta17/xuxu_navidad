@@ -10,9 +10,9 @@ body{
 .music{
     border: 2px solid white;
     border-radius: 11px;
-    display: flex;
+    display: block;
+    margin: 20px auto;
     padding: 5px;
-    margin: 10px;
     font-size: 20px;
 }
 
@@ -77,7 +77,7 @@ button {
     color: black;
     border-radius: 8px;
     padding: 10px 16px;
-
+    font-size: 18px;
     box-shadow: 0 4px 100px 1px rgb(0, 183, 255);
 }
 
