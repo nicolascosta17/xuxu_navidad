@@ -81,9 +81,10 @@ button {
     box-shadow: 0 4px 100px 1px rgb(0, 183, 255);
 }
 
-span{
+.texto{
     text-align: center;
     font-size: 13px;
+    margin: 50px;
 }
 
 p{
